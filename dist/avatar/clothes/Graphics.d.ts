@@ -2,7 +2,7 @@ import * as React from 'react';
 export interface Props {
     maskID: string;
 }
-export declare class Dupe extends React.Component<Props> {
+export declare class Logo extends React.Component<Props> {
     static optionValue: string;
     render(): any;
 }
