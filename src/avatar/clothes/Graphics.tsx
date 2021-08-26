@@ -16,7 +16,7 @@ export class Logo extends React.Component<Props> {
         mask={`url(#${this.props.maskID})`}
         strokeWidth='1'
         fillRule='evenodd'>
-        <g transform='translate(77.000000, 58.000000)' id='Logo'>
+        <g transform='translate(127.000000, 45.000000)' id='Logo'>
           <g id='svg5868'>
             <g transform='translate(-566.86786,-492.82343)' id='layer1'>
               <path d='m 575.21411,570.28468 27.1,0 0,-11.40625 6.95125,0 0,-7.3125 18.8775,0 0,-35.9025 -5.3625,0 0,-12.98625 -14.53875,0 0,-9.315 -23.57125,0 0,18.48875 -17.0775,0 0,39.5725 7.61,0 0.0113,18.86125 z' />
